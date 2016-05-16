@@ -1,0 +1,21 @@
+{
+  "name": "blogson",
+  "version": "0.0.1",
+  "description": "Very simple static website generator aimed at creating my wedding site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "generator"
+  ],
+  "author": "David Robson",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.5",
+    "vorpal": "^1.10.10",
+    "walk": "^2.3.9"
+  },
+  "engines" : { "node" : ">=6.0.0" } 
+}
