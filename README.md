@@ -9,3 +9,4 @@ Personal project to create a website for my upcoming wedding. But decided to lea
 - [ ] scaffolding
 - [ ] slightly dynamic forms e.g. validation (RSVP page)
 - [ ] firebase form integration, create, upload data schema
+- [ ] simple plugin system
