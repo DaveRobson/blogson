@@ -1,5 +1,5 @@
 ---
-title: hello world
+layout: base
 ---
 
 I am using __hello__.
