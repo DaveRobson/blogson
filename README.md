@@ -3,6 +3,7 @@ Personal project to create a website for my upcoming wedding. But decided to lea
 ### Features
 
 - [x] md to html generation
+- [x] event system - for different stages in the generation.
 - [ ] simple theming
 - [ ] super simple cli
 - [ ] website deployment
