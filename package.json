@@ -4,7 +4,8 @@
   "description": "Very simple static website generator aimed at creating my wedding site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "cd build && python -m SimpleHTTPServer 8000"
   },
   "keywords": [
     "static",
