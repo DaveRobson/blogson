@@ -13,7 +13,11 @@
         {% include "css.njk" %}
     </head>
     <body>
-        {{ content }}
+        {% include "nav.njk" %}
+
+        {% block content %}
+          {{ content }}
+        {% endblock %}
 
         {% include "scripts.njk" %}
     </body>
